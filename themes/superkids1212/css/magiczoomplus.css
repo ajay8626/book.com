@@ -1,0 +1,26 @@
+.MagicZoomPlus img{border:0 !important;margin:0 !important;outline:0 !important;padding:0 !important;height:auto;}
+.MagicZoomPlus > img{width:100%;}
+.MagicZoomPlus.magic-for-ie8, .MagicZoomPlus.magic-for-ie8 > img{max-width:none !important;}
+.MagicZoomPlus.magic-for-ie7 > img, .MagicZoomPlus.magic-for-ie5 img{width:auto;}
+td > .MagicZoomPlus > img, td > .MagicZoomPlus.magic-for-ie8 > img{max-width:none;width:auto;}
+.MagicZoomPlus span{display:none !important;}
+.MagicZoomPlusHint{color:#444;font-family:sans-serif;font-size:8pt;line-height:24px;margin:0;height:52px;width:60px;text-align:left;text-indent:-999px;text-decoration:none;bottom:0 !important;right:0 !important;left:auto !important;top:auto !important;margin:0 3px 2px 0;}
+.MagicZoomPlus-ExternalText{display:none;}
+.MagicZoomBigImageCont{background:#ffffff;border:1px solid #999;-webkit-transition:none !important;-moz-transition:none !important;transition:none !important;}
+.MagicZoomBigImageCont.inner-zoom{border:0;}
+.MagicZoomBigImageCont img{max-width:none !important;max-height:none !important;height:auto !important;width:auto !important;}
+.MagicZoomHeader{background:#666;color:#fff;font-size:10pt !important;line-height:normal !important;text-align:center !important;}
+.MagicZoomPup{background:none repeat scroll 0 0 #E40C0C;}
+.MagicHotspots{display:none;visibility:hidden;}
+.MagicHotspots a{border:1px solid #ccc;display:block !important;position:absolute !important;}
+.MagicHotspots a:hover{border:1px solid red;}
+.MagicThumb-expanded-thumbnail{cursor:default;}
+.MagicThumb-expanded{background:#ffffff;border:1px solid #ccc;cursor:pointer;outline:0;padding:0;-webkit-box-sizing:content-box !important;-moz-box-sizing:content-box !important;box-sizing:content-box !important;-webkit-transition:none !important;-moz-transition:none !important;transition:none !important;}
+.MagicThumb-expanded img{background:#ffffff;}
+.MagicThumb-caption{background:#ccc;border:0 !important;color:#333;font:normal 10pt Verdana, Helvetica;min-height:18px !important;padding:8px;outline:0 !important;text-align:left;}
+.MagicThumb-buttons a{height:24px;margin:0px 1px !important;overflow:hidden;width:24px;-webkit-transition:none !important;-moz-transition:none !important;transition:none !important;}
+.MagicThumb-expanded > div > div > div > img{max-height:none !important;max-width:none !important;height:auto !important;width:auto !important;display:none !important;}
+.MagicThumb-background{-webkit-transition:none !important;-moz-transition:none !important;transition:none !important;}
+.magic-temporary-img img{max-height:none !important;max-width:none !important;}
+.MagicBoxShadow{-moz-box-shadow:3px 3px 4px #888888;-webkit-box-shadow:3px 3px 4px #888888;box-shadow:3px 3px 4px #888888;border-collapse:separate;filter:progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#888888') !important;-ms-filter:"progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#888888')" !important;}
+.MagicBoxGlow{-moz-box-shadow:0px 0px 4px 4px #888888;-webkit-box-shadow:0px 0px 4px 4px #888888;box-shadow:0px 0px 4px 4px #888888;border-collapse:separate;filter:progid:DXImageTransform.Microsoft.Glow(Strength=4, Color='#888888') !important;-ms-filter:"progid:DXImageTransform.Microsoft.Glow(Strength=4, Color='#888888')" !important;}
